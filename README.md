@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kavetri
 - 📫 How to reach me +insta @kavetriii +gmail kavetribhatt@gmail.com
 - 😄 Pronouns: she 
-- ⚡ Fun fact: i like frogs 
+
 
 <!---
 kavetri/kavetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
